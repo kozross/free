@@ -129,6 +129,7 @@ library
     Control.Alternative.Free
     Control.Alternative.Free.Final
     Control.Category.Free
+    Control.Category.Free.Final
     Control.Comonad.Cofree
     Control.Comonad.Cofree.Class
     Control.Comonad.Trans.Cofree
@@ -142,6 +143,8 @@ library
     Control.Monad.Trans.Free.Ap
     Control.Monad.Trans.Free.Church
     Control.Monad.Trans.Iter
+    Data.Semigroupoid.Free
+    Data.Semigroupoid.Free.Final
 
   other-modules:
     Data.Functor.Classes.Compat
